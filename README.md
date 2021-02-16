@@ -6,7 +6,12 @@ Download ALL the files in src.
 Click on calculator.html to load webpage
   ```
 
-# References
+## References
   ```bash
   Design inspired by Apple Calculator 
+  ```
+## 
+  ```bash
+  * HTML
+  * CSS
   ```
