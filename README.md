@@ -10,7 +10,7 @@ Click on calculator.html to load webpage
   ```bash
   Design inspired by Apple Calculator 
   ```
-## 
+## Language used 
   ```bash
   * HTML
   * CSS
