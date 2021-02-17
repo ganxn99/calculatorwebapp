@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href = style.css>
+        <script src = "script.js" ></script>
+        <title>Basic Calculator</title>
+    </head> 
+
+    <body>
+        <div class = "calculator">
+            <div class = "result">
+                <div previous_output class="preval" id="preval">xxx</div> 
+                <div current_output class="curval" id="curval"></div> 
+            </div>
+
+        <div class = "keypad"></div>
+            <button input_clear value="clear" onclick="clr()">AC</button>
+            <button input_sign value="+/-" onclick="opposite()">+/-</button>
+            <button input_percent value="%" onclick="operationperc()">%</button>
+            <button input_div class = "colored" >÷</button>
+            <button input_num value="7" onclick="dis('7')"> 7</button>
+            <button input_num value="8" onclick="dis('8')">8</button>
+            <button input_num value="9" onclick="dis('9')">9</button>
+            <button input_mul class = "colored" >x</button>
+            <button input_num value="4" onclick="dis('4')">4</button>
+            <button input_num value="5" onclick="dis('5')">5</button>
+            <button input_num value="6" onclick="dis('6')">6</button>
+            <button input_num class = "colored" >-</button>
+            <button input_num value="1" onclick="dis('1')">1</button>
+            <button input_num value="2" onclick="dis('2')">2</button>
+            <button input_num value="3" onclick="dis('3')">3</button>
+            <button input_add class = "colored">+</button>
+            <button input_num class = "expand" >0</button>
+            <button input_dot>.</button>
+            <button input_equal class = "colored" >=</button>
+        </div>
+    </body>
+</html>
