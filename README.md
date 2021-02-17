@@ -1,4 +1,5 @@
-# This calculator performs basic arithmetic function
+# This calculator performs basic arithmetic function, will continue to update.
+(having some projects and midterm coming up, wish to spend more time on it)
 
 ## How to start?
   ```bash
