@@ -1,8 +1,8 @@
-function getPrev(){
-	return document.getElementById("preval").innerText;
-}
+// function getPrev(){
+// 	return document.getElementById("preval").innerText;
+// }
 
-alert(getPrev());
+// alert(getPrev());
 
 // function printPrev(value){
 //     document.getElementById("preval").innerText = value; 
